@@ -15,23 +15,18 @@ nav {
 
 .container {
     display: flex;
-   /* border: 1px solid red; */
     height: 100%;
 }
 
 .tableContainer {
-  /*  border: 1px solid orange;*/
     display: inline;
-}
-
-.imgContainer {
-   /* border: 1px solid blue; */
 }
 
 #homeImage {
     height: 100%;
     width: 100%;
 }
+
 th {
     background-color: #934d53;
 }
