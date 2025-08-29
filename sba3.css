@@ -1,0 +1,29 @@
+     .container {
+        padding-left: 15ch;
+     }
+     
+     .loginContainer{
+        background-color: #fff;
+        padding: 20px 30px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 600px;
+     }
+
+     #submitButton {
+     width: 100%;
+      padding: 10px;
+      background-color: #ffa285;
+      color: white;
+      border: none;
+      border-radius: 3px;
+      cursor: pointer;
+     }
+
+    .formField {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+    }
